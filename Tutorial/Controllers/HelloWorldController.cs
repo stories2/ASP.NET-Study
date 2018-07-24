@@ -29,5 +29,6 @@ namespace Tutorial.Controllers
             ViewBag.numTimes = numTimes;
             return View();
         }
+        
     }
 }
